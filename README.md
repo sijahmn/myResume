@@ -1,4 +1,4 @@
-# MyResume
-Official Resume of MUHAMMED SIJAH MN
-<-------Link----->
+# Resume using BOOTSTRAP
+
+RESUME LINK :
 https://sijahmn.github.io/MyResume/
